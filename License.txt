@@ -1,8 +1,9 @@
-Copyright (c) 2022, Fabian Hensel. All rights reserved.
+Copyright (c) 2022, Jakob l'Etienne, Fabian Hensel. All rights reserved.
 
 You are free to use this software for private purposes. 
 Redistribution of any kind is NOT allowed without written permission.
 
 If you want to give this program to someone else, point them to the
-original author Fabian Hensel.
+original authors Jakob l'Etienne and Fabian Hensel.
+GitHub: JakoblEtienne
 E-Mail: f.hensel1997@gmail.com
